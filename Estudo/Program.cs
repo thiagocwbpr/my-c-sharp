@@ -14,6 +14,7 @@ namespace Estudo
 
             Console.WriteLine("n1: "+ n1);
             Console.WriteLine("n2: "+ n2);
+            Console.WriteLine("");
       
         }
     }

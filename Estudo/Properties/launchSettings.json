@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Estudo": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Estudos-C-Sharp\\Estudo"
+    }
+  }
+}
